@@ -34,7 +34,7 @@ This command builds and starts the required database containers.
 - Query Parameters:
   - `lon`: Longitude of the location
   - `lat`: Latitude of the location
-- Returns the current air quality data including pollutant levels.
+- Returns the current air quality data including pollutant levels..
 
 
 **Get Paris Worst Air Quality time:** Fetches the worst air quality record for Paris, populated by a scheduled cron job.
